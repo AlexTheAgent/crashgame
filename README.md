@@ -1,4 +1,9 @@
 # crashgame
+  Credits:
+    Geek / @Geekeh 
+    
+  Modified :
+    Zoron 
 
   All you need to install ;
      PIP install cloudscraper
